@@ -4,6 +4,7 @@
   "package": "com.ryorama.tbd.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "EnderDragonEntityMixin"
   ],
   "client": [
   ],

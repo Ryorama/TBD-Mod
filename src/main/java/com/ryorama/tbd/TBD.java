@@ -1,8 +1,6 @@
-package net.fabricmc.example;
+package com.ryorama.tbd;
 
 import net.fabricmc.api.ModInitializer;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 public class TBD implements ModInitializer {
 
